@@ -37,6 +37,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "DPMods-L203I4": {
+      "hwid": "D03F7FAD65FB6628",
+      "expireDate": "2026-06-07",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
